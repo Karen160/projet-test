@@ -4,6 +4,7 @@ const cssThemeConfig = {
     colors: {
       midnightBlue: "#023064"
     }
+
   }
 };
 
